@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit specific
+.streamlit/
+
+# Dependencias específicas de Python (creadas por pip, por ejemplo)
+env/
+venv/
+movie/
